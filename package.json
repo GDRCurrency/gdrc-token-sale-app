@@ -1,0 +1,36 @@
+{
+  "name": "devdependencies",
+  "version": "1.0.0",
+  "description": "GDRC Token Sale Application",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "token",
+    "sale",
+    "GDRC",
+    "smart",
+    "contracts",
+    "cryptocurrency",
+    "ICO",
+    "ERC20",
+    "Global",
+    "Digital",
+    "Reserve",
+    "Currency"
+  ],
+  "author": "Nathan Pierce",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lite-server": "^2.6.1",
+    "truffle": "^5.11.5",
+    "web3": "^4.3.0"
+  }
+}
